@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "test-client.js",
+    "test-user.js"
+  ]
+}
